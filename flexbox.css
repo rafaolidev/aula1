@@ -1,0 +1,15 @@
+.flexBoxContainer {
+    width: 400px;
+    height: 800px;
+    background: aliceblue;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box {
+    width: 175px;
+    height: 175px;
+    background: red;
+    margin: 5px;
+}
